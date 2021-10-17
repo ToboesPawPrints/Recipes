@@ -1,5 +1,5 @@
 import React from 'react';
-import Hello from './Hello.js';
+import Hello from './components/Hello.js';
 import './App.css';
 
 function App() {
